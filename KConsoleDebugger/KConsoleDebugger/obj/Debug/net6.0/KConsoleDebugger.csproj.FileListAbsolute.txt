@@ -1,0 +1,12 @@
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\bin\Debug\net6.0\KConsoleDebugger.deps.json
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\bin\Debug\net6.0\KConsoleDebugger.dll
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\bin\Debug\net6.0\KConsoleDebugger.pdb
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.csproj.AssemblyReference.cache
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.AssemblyInfoInputs.cache
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.AssemblyInfo.cs
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.csproj.CoreCompileInputs.cache
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.dll
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\refint\KConsoleDebugger.dll
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\KConsoleDebugger.pdb
+C:\Users\Home HP\source\repos\KConsoleDebugger\KConsoleDebugger\obj\Debug\net6.0\ref\KConsoleDebugger.dll
