@@ -1,0 +1,2 @@
+# KConsoleDebugger
+My Debugger + Logger
